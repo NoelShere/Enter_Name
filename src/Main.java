@@ -30,6 +30,8 @@ public class Main {
 
         print_result(Name,Address);
 
+        a.close();
+
 
     }
 
